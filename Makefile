@@ -3,20 +3,20 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: kfortova <kfortova@student.42.fr>          +#+  +:+       +#+         #
+#    By: kfortova <kfortova@student.42prague.com    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/02/07 09:55:42 by kfortova          #+#    #+#              #
-#    Updated: 2023/02/07 10:18:49 by kfortova         ###   ########.fr        #
+#    Updated: 2023/02/26 11:58:13 by kfortova         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 NAME = libftprintf.a
 SRC = 			ft_printf.c \
 				ft_putchar.c \
-				ft_puts.c \
+				ft_putstr.c \
 				ft_putptr.c \
 				ft_putnbr.c \
-				ft.putu.c \
+				ft_putu.c \
 				ft_puthex.c \
 				ft_puthexup.c \
 
